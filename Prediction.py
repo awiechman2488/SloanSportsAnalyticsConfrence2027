@@ -1,3 +1,5 @@
+#Logistic Regression Model
+
 import pyodbc
 import pandas as pd
 import statsmodels.formula.api as smf
